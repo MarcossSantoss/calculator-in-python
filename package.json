@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "flet": "^1.0.0",
+    "pyinstaller": "^0.0.1"
+  }
+}
